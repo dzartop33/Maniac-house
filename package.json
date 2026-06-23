@@ -1,0 +1,13 @@
+{
+  "name": "maniac-house-multiplayer",
+  "version": "1.0.0",
+  "description": "Дом Палача — мультиплеерный 2D хоррор для локальной сети",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "bonjour-service": "^1.2.1"
+  }
+}
